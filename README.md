@@ -7,7 +7,7 @@ https://vitalina-korchova.github.io/currency-converter/
 
 ## 🚀 Tech Stack
 
-- Next.js 16+ & React 18
+- Next.js 16+ & React 19
 - TypeScript
 - Tailwind CSS
 - Recharts (charts)
