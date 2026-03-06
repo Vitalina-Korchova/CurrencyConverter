@@ -10,6 +10,7 @@ https://vitalina-korchova.github.io/currency-converter/
 - Next.js 16+ & React 19
 - TypeScript
 - Tailwind CSS
+- Shadcn
 - Recharts (charts)
 - Redux Toolkit (state & history)
 - GSAP (animations)
